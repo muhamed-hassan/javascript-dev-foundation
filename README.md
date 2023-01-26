@@ -1,2 +1,1 @@
-# javascript-dev-foundation
-Preparation of a (Junior JavaScript Developer [Web Frontend]) 👨‍💻 👩‍💻 🎓
+#### Please visit the wiki for more info https://github.com/muhamed-hassan/javascript-dev-foundation/wiki
