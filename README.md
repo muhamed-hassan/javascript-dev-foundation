@@ -6,15 +6,6 @@
 
 ***
 
-**Suggested duration:** 6 months
-
-Study during the spare times ⌛ between [semesters](https://en.wikipedia.org/wiki/Academic_term) to qualify 🧠 💪 yourself in the fastest possible time without [burning out](https://en.wikipedia.org/wiki/Occupational_burnout) yourself.
-
-Periodical practice is good to sharpen your skills along the time to avoid having a rusty hands.
-
-***
-***
-
 ![Visual-A1](https://user-images.githubusercontent.com/17825804/219580879-0d09e589-a6f4-4f51-9ab0-86812bf485ff.png)
 
 ***
