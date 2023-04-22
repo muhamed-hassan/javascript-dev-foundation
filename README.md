@@ -16,4 +16,4 @@
 
 [Embedded web development tools](https://en.wikipedia.org/wiki/Web_development_tools) inside the [Web-Browser](https://en.wikipedia.org/wiki/Web_browser)
 
-![67c2e18e-3cbd-47ca-b209-95e9c395d23e](https://user-images.githubusercontent.com/17825804/219581020-307a23d6-2170-43b5-9750-c6e1a8744c13.png)
+![image](https://user-images.githubusercontent.com/17825804/233767811-e842b1d5-99dc-4a2e-94f6-9c0c9a9a3b08.png)
