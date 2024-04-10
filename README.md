@@ -10,10 +10,6 @@
 
 ***
 
-![Visual-A1](https://user-images.githubusercontent.com/17825804/219580879-0d09e589-a6f4-4f51-9ab0-86812bf485ff.png)
-
-***
-
 ![js_45](https://user-images.githubusercontent.com/17825804/219580908-68899ac3-8ff1-4fd3-b787-e9ddfe3d88eb.png)
 
 ***
