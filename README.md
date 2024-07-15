@@ -6,11 +6,7 @@
 
 ***
 
-![JavaScript](https://user-images.githubusercontent.com/17825804/219580646-bb96c275-533e-43bf-88ac-19f176359812.png)
-
-***
-
-![js_45](https://user-images.githubusercontent.com/17825804/219580908-68899ac3-8ff1-4fd3-b787-e9ddfe3d88eb.png)
+![dcubk6c-041adb23-0b11-414f-b725-87743dba5675](https://github.com/user-attachments/assets/f5819e9e-63e6-41ea-9467-f476d23ff42a)
 
 ***
 
